@@ -1,1 +1,1 @@
-{"P2": {"label": "bug", "labelColor": "#d73a4a", "postTitle": "asd", "postUrl": "post/asd.html", "createdDate": "2024-01-08", "dateLabelColor": "#bc4c00"}}
+{"P2": {"labels": ["bug"], "postTitle": "asd", "postUrl": "post/asd.html", "createdDate": "2024-01-08", "dateLabelColor": "#bc4c00"}, "labelColorDict": {"bug": "#d73a4a", "documentation": "#0075ca", "duplicate": "#cfd3d7", "enhancement": "#a2eeef", "good first issue": "#7057ff", "help wanted": "#008672", "invalid": "#e4e669", "question": "#d876e3", "wontfix": "#ffffff"}}
